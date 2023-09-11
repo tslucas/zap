@@ -1,7 +1,6 @@
 #!/bin/bash
 # v1.1
 
-
 set -euo pipefail
 
 function usage()
